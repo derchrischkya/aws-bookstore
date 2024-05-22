@@ -51,7 +51,7 @@
 
 This project is used to deploy a simple lambda function behind API Gateway
 
-![Alt text](.architecture.svg)
+![Alt text](Architecture)
 <img src="./.architecture.svg">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
